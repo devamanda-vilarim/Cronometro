@@ -1,2 +1,2 @@
 # Cronometro
- testando cronometro em JS . by: SatellaSoft vídeo
+ testando cronometro em JS . by: SatellaSoft video
